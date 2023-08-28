@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ECE @ CMU | Former SWE Intern @ Coursera
 
 profile:
   align: right
@@ -19,11 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-ECE @ CMU | Former SWE Intern @ Coursera
-
 I am a rising junior at Carnegie Mellon University pursuing a Bachelor of Science in Electrical and Computer Engineering with a concentration in software systems. I have experience in working with software applications, embedded systems, distributed systems, machine learning and low-level programming. I am always looking for ways to learn about new innovative technology that can change the world around us.
 
 Currently, I am looking for Software Engineering/Technology internships for the Summer of 2024. Feel free to connect with me via `email` ([saluakintayo@gmail.com](saluakintayo@gmail.com)) and `Linkedin` ([www.linkedin.com/in/akintayo-salu](www.linkedin.com/in/akintayo-salu)). 
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
