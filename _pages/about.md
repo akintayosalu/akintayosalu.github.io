@@ -6,7 +6,7 @@ subtitle: ECE @ CMU | Former SWE Intern @ Coursera
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: akintayo_pic.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
