@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: ECE @ CMU | Former SWE Intern @ Coursera
 
