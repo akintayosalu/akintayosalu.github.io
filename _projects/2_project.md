@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Algobot
+description: Algorithmic trading bot built with Python
+img: assets/img/algo.jpeg
+redirect: https://github.com/akintayosalu/algobot
 importance: 2
 category: work
 giscus_comments: true

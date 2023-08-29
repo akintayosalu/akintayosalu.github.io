@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Maze-112Run
+description: 3D endless running game built with Python and the OpenCV graphics package
+img: assets/img/maze112.jpeg
+redirect: https://github.com/akintayosalu/Maze-112Run
 importance: 3
 category: work
 ---
