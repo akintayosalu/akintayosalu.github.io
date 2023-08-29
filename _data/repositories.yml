@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - akintayosalu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - akintayosalu/algobot
+  - akintayosalu/akintayosalu.github.io
+  - akintayosalu/Maze-112Run
+  - akintayosalu/course-tool
+  - akintayosalu/Image-Stitching-OpenCV
+  - akintayosalu/gpt4all
+  - akintayosalu/letterboxd-client
