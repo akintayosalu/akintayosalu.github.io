@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Personal Wesbite
+description: Personal website on GitHub Pages
 img: assets/img/12.jpg
+redirect: https://github.com/akintayosalu/akintayosalu.github.io
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
