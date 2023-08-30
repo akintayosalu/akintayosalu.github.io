@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Maze-112Run
-description: 3D endless running game built with Python and the OpenCV graphics package
-img: assets/img/maze112.jpeg
-redirect: https://github.com/akintayosalu/Maze-112Run
-importance: 3
+title: Personal Wesbite
+description: Personal website on GitHub Pages
+img: assets/img/webpage.jpg
+redirect: https://github.com/akintayosalu/akintayosalu.github.io
+importance: 1
 category: work
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

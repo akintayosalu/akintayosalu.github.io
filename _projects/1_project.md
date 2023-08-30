@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Personal Wesbite
-description: Personal website on GitHub Pages
-img: assets/img/12.jpg
-redirect: https://github.com/akintayosalu/akintayosalu.github.io
-importance: 1
+title: Algobot
+description: Algorithmic trading bot built with Python
+img: assets/img/algo.jpeg
+redirect: https://github.com/akintayosalu/algobot
+importance: 2
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Algobot
-description: Algorithmic trading bot built with Python
-img: assets/img/algo.jpeg
-redirect: https://github.com/akintayosalu/algobot
-importance: 2
+title: Maze-112Run
+description: 3D endless running game built with Python and the OpenCV graphics package
+img: assets/img/maze112.jpeg
+redirect: https://github.com/akintayosalu/Maze-112Run
+importance: 3
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
